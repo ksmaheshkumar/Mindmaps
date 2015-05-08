@@ -1,4 +1,4 @@
 Mindmaps
 ========
 
-Security Related Mindmaps
+InfoSec Mindmaps
